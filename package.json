@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs": "^0.0.1-security",
+    "os": "^0.1.2",
+    "validator": "^13.7.0"
+  }
+}
